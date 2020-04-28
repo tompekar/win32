@@ -26,7 +26,7 @@ The user's company name.
 |-------------------|----------------------------------------------------------------------------------|
 | CN                | Company                                                                          |
 | Ldap-Display-Name | company                                                                          |
-| Size              | \-                                                                               |
+| Size              | \64 characters                                                                               |
 | Update Privilege  | Anyone may update this object based on the security of the object being created. |
 | Update Frequency  | \-                                                                               |
 | Attribute-Id      | 1.2.840.113556.1.2.146                                                           |
